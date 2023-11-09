@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bosta/static/css/main.86e45c3d.css",
+    "main.js": "/Bosta/static/js/main.a40169fd.js",
+    "static/js/787.ea432c35.chunk.js": "/Bosta/static/js/787.ea432c35.chunk.js",
+    "index.html": "/Bosta/index.html",
+    "main.86e45c3d.css.map": "/Bosta/static/css/main.86e45c3d.css.map",
+    "main.a40169fd.js.map": "/Bosta/static/js/main.a40169fd.js.map",
+    "787.ea432c35.chunk.js.map": "/Bosta/static/js/787.ea432c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e45c3d.css",
+    "static/js/main.a40169fd.js"
+  ]
+}
