@@ -1,0 +1,35 @@
+/* Stepper.css */
+
+.stepper-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .step-indicator {
+    margin-bottom: 20px;
+  }
+  
+  .step-content {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: rgb(241, 61, 61);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 600px) {
+    .stepper-container {
+      padding: 10px;
+    }
+  }
+  
